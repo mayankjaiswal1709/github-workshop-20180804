@@ -1,3 +1,3 @@
-**[Feedback]?**
+Please provide your valuable feedback:
 
-[Feedback]: https://github.com/glfmn/github-workshop/issues/3
+[http://bit.ly/gitworkshopfeedback](http://bit.ly/gitworkshopfeedback) 
